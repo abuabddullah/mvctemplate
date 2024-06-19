@@ -3,6 +3,14 @@
 PORT=5000
 DB_URI="mongodb+srv://asifaowadud:sof6vxfRNfUEvdCg@cluster0.gjcwx8p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
+# trials
+
+### database.js
+
+- // useNewUrlParser: true,
+- // useUnifiedTopology: true,
+- // family: 4,
+
 # .gitignore files
 
 ## See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
